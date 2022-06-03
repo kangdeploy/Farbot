@@ -562,7 +562,7 @@ exports.leave = () =>{
 Goodbye`
 }
 exports.source = () =>{
-return`*------「 SOURCE CODE* ------*
+return`*SOURCE CODE*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
 `
@@ -571,12 +571,12 @@ exports.tos = (ownernomer) => {
     return `
 *DONATE*
 
-Hai kak👋
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+Hai kak ${pushname} 👋
 
-Berapapun donasi kalian akan sangat berarti 
+Jika kamu ingin sedekah Harap hubungi
+Owner di bawah ini ya kak
 
-Chat owner untuk donasi ya kak
+Note : Sedekah berapapun kami terima yang penting ikhlas
 Contact person Owner:
 wa.me/${ownernomer}
 
