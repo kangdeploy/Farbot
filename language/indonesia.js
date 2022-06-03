@@ -2,7 +2,7 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ *_Loading...._*`
+    return `⏳ *_Loading please waait...._*`
 }
 exports.ok = () => {
     return `Done`
@@ -101,7 +101,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 *≼≽Prefix bot* : ${prefix}
 *≼≽Library* : Baileys-md
 
-*Farbot Coded By Fardev*👋
+*Farbot Coded By Fardev*
 
 *Bot Info* 
 ▣ ${prefix}owner
@@ -538,41 +538,18 @@ exports.rules = (prefix) => {
     return `
 *── 「 RULES AND FAQ* ──*
 
-1. Jangan spam bot. 🙅
-Sanksi: *❎ WARN/SOFT BLOCK*
+1. Jangan spam bot. 
+Sanksi: * WARN/SOFT BLOCK*
 
-2. Jangan telepon bot. ☎️
-Sanksi: *❎ SOFT BLOCK*
+2. Jangan telepon bot. 
+Sanksi: * SOFT BLOCK*
 
-3. Jangan mengeksploitasi bot.😖
+3. Jangan mengeksploitasi bot.
 Sanksi: *PERMANENT BLOCK*
-
-🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
-
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
-
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
-
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
-
-🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
-
-
-Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
-
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
-
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
-😖🙏
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 
 	
 ╭ 𝖭𝖺𝗆𝖺 :
 ▣ 𝖴𝗆𝗎𝗋 :
@@ -581,27 +558,25 @@ exports.welcome = () =>{
 ▣ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out Mental aman kan kak >.<
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE* ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
 `
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE* -------*
+*DONATE*
 
-Hai kak ☺️ 
+Hai kak👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
-Berapapun donasi kalian akan sangat berarti 👍
+Berapapun donasi kalian akan sangat berarti 
 
-Thanks!
-
+Chat owner untuk donasi ya kak
 Contact person Owner:
 wa.me/${ownernomer}
 
