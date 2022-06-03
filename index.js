@@ -1548,7 +1548,7 @@ break
 					}
 					break    
 	case 'menu': case 'command':{
-			await alpha.send5ButLoc(from, `Hai kak ${pushname} 👋, saya *${botname}* ` + '\n\n' + lang.listMenu(time, salam, pushname, prefix) , `© ${ownername}`,pp_bot, [{"urlButton": {"displayText": "Myweb","url": `${youtube}`}},{"urlButton": {"displayText": "Support","url": `${myweb}`}},{"quickReplyButton": {"displayText": "S E D E K A H","id": 'donate'}},{"quickReplyButton": {"displayText": "O W N E R","id": 'owner'}},{"quickReplyButton": {"displayText": "A T U R A N","id": 'rules'}}] )
+			await alpha.send5ButLoc(from, `Hai kak ${pushname} 👋, saya *${botname}* ` + '\n\n' + lang.listMenu(time, salam, pushname, prefix) , `© ${ownername}`,pp_bot, [{"urlButton": {"displayText": "Myweb","url": `${youtube}`}},{"urlButton": {"displayText": "Support","url": `${myweb}`}},{"quickReplyButton": {"displayText": "S E D E K A H","id": 'donate'}}] )
 		}
 	break   
 	case 'infocmd': case'infomenu':{
