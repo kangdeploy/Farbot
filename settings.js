@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "Farbot-Md" //namabot kalian
 global.ownername= "Fardev78" //nama kalian
-global.myweb ="https://https://wa.me/18312576749" //bebas asal jan hapus
+global.myweb ="https://wa.me/18312576749" //bebas asal jan hapus
 global.youtube = "https://Fardev78.com.id" //bebas asal jan hapus
 global.github = "https://github.com/Satria356" //bebas
 global.email = "farrrgf300@gmail.com" //bebas
@@ -30,7 +30,7 @@ global.ownernomerr = "18312576749" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["18312576749@s.whatsapp.net"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["18312576749","6283811034750"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Farbo Multi Device' //sticker wm ubah
 global.author = 'Farbot-Md' //sticker wm ganti nama kalian
 global.sessionName = 'session'
